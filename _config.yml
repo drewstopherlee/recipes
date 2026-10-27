@@ -2,7 +2,7 @@
 title: Ma'am's Vittles
 email: owner@andrewshaffer.tech
 description: The plain text recipe database for hackers
-baseurl: "https://recipes.shaffer.network"
+baseurl: "https://recipes.shaffer.foo"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
